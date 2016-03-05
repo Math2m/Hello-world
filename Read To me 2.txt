@@ -1,1 +1,2 @@
-second fichier pour le test de communication
+second fichier pour le test de communication.
+Et maintenant on modifie depuis GitHub pour tester le pull...
